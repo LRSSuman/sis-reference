@@ -1,8 +1,8 @@
 import { z } from 'zod';
 
 export const StudentDTOType = z.object({
-    profileImage: z.string().url('Invalid image URL'),
-    name: z.string({ message: 'aa' }).min(3, 'Name must be at least 3 characters'),
+    profileImage: z.string({ required_error: 'aa' }).url('Invalid image URL'),
+    name: z.string({ required_error: 'aa' }).min(3, 'Name must be at least 3 characters'),
     registerNo: z
         .number({ message: 'Register number must be number' })
         .int()
@@ -14,6 +14,7 @@ export const StudentDTOType = z.object({
     gender: z.enum(['Male', 'Female'], { message: 'Invalid gender' }),
     department: z.string().default('CSE'),
     year: z.number().min(1, 'Year must be at least 1').max(4, 'Year cannot exceed 4'),
+    regulation: z.string(),
     semester: z.number().min(1, 'Semester must be at least 1').max(8, 'Semester cannot exceed 8'),
     batch: z.string().min(4, 'Batch must be at least 4 characters'),
     arrears: z.string().default('0'),

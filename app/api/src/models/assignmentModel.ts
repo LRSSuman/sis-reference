@@ -1,23 +1,31 @@
+import { Assignment } from '@sis/types';
 import mongoose from 'mongoose';
 
+const resultSchema = new mongoose.Schema(
+    {
+        code: { type: String, required: [true, 'please enter subject code'] },
+        name: { type: String, required: [true, 'please enter subject code'] },
+        status: { type: Boolean, default: false },
+        mark: { type: Number, default: 0 },
+    },
+    { _id: false }
+);
+
 const assignmentSchema = new mongoose.Schema({
-    registerNo: { type: String, required: true },
-    regulation: { type: String, required: true }, // Example: 'R2021'
-    semester: { type: Number, required: true }, // Example: 1, 2, 3...
-    subjects: [
-        {
-            subject: { type: String, required: true }, // Subject Name
-            code: { type: String, required: true }, // Subject Code
-            assignments: [
-                {
-                    assignmentNumber: { type: Number, required: true }, // 1, 2, 3
-                    status: { type: String, enum: ['Pending', 'Submitted', 'Graded'], required: true },
-                    mark: { type: Number, min: 0, max: 100 },
-                },
-            ],
+    registerNo: { type: Number, required: [true, 'please enter register no'] },
+    assignmentResults: {
+        one: {
+            results: [resultSchema],
         },
-    ],
+        two: {
+            results: [resultSchema],
+        },
+        three: {
+            results: [resultSchema],
+        },
+    },
 });
 
-const Assignment = mongoose.model('Assignment', assignmentSchema);
-export default Assignment;
+const AssignmentModel = mongoose.model('Assignment', assignmentSchema);
+export const addAssignmentData = (data: Assignment[]) => AssignmentModel.insertMany(data);
+export const deleteAssignmentData = () => AssignmentModel.deleteMany();

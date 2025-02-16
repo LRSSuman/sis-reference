@@ -1,3 +1,4 @@
+import { Student } from '@sis/types';
 import mongoose from 'mongoose';
 
 const studentSchema = new mongoose.Schema({
@@ -27,7 +28,7 @@ const studentSchema = new mongoose.Schema({
         default: 0,
     },
     dob: {
-        type: Date,
+        type: String,
         required: [true, 'Please enter Date of Birth'],
     },
     gender: {
@@ -46,6 +47,10 @@ const studentSchema = new mongoose.Schema({
         type: Number,
         required: [true, 'please enter year'],
     },
+    regulation: {
+        type: String,
+        required: [true, 'please enter regulation'],
+    },
     semester: {
         type: Number,
         required: [true, 'please enter semester'],
@@ -55,7 +60,7 @@ const studentSchema = new mongoose.Schema({
         required: [true, 'please enter batch'],
     },
     arrears: {
-        type: String,
+        type: Number,
         default: 0,
     },
     degree: {
@@ -66,11 +71,15 @@ const studentSchema = new mongoose.Schema({
         type: String,
         required: [true, 'please enter email'],
     },
+    mobile: {
+        type: Number,
+        required: [true, 'please enter mobile no'],
+    },
     accomodation: {
         type: String,
         required: [true, 'please select accomodation'],
         enum: {
-            values: ['Day Scholor', 'Hosteler'],
+            values: ['Day Scholar', 'Hosteller'],
             message: 'Please select correct accomodation',
         },
     },
@@ -78,3 +87,5 @@ const studentSchema = new mongoose.Schema({
 
 export const studentModel = mongoose.model('Student', studentSchema);
 export const getAllStudents = () => studentModel.find();
+export const addStudentData = (data: Student[]) => studentModel.insertMany(data);
+export const deleteStudentData = () => studentModel.deleteMany();

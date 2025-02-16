@@ -4,7 +4,8 @@
     "description": "",
     "main": "index.js",
     "scripts": {
-        "start:dev": "nodemon"
+        "start:dev": "nodemon",
+        "seeder": "ts-node -r tsconfig-paths/register src/utils/seeder.ts"
     },
     "keywords": [],
     "author": "",

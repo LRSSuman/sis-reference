@@ -1,0 +1,3742 @@
+[
+    {
+        "registerNo": 96132024006,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 9
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 10
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024001,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024002,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024003,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024007,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 1
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024004,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024009,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 1
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 3
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024010,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 9
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 2
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023001,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023002,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 3
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 2
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023003,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023004,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 8
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 10
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023005,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024005,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023008,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023009,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023010,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 9
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022001,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 2
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 2
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022002,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 3
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022003,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 9
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 10
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022004,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 1
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022006,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022007,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 10
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 9
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022008,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 2
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 1
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022009,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 8
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021001,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021002,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 10
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021003,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 5
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021004,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021005,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 8
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 9
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021006,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 3
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023007,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 10
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132024008,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 3
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": true,
+                        "mark": 9
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "HS3252",
+                        "name": "Professional English - II",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "MA3251",
+                        "name": "Statistics and Numerical Methods",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "PH3256",
+                        "name": "Physics for Information Science",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "BE3251",
+                        "name": "Basic Electrical and Electronics Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "EG3251",
+                        "name": "Engineering Graphics",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3251",
+                        "name": "Programming in C",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021008,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 10
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 9
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021009,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 7
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021010,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132021007,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": true,
+                        "mark": 3
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "AL3811",
+                        "name": "Project Work/Internship",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022010,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 6
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 8
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132023006,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 5
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 3
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 4
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 2
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": true,
+                        "mark": 10
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": true,
+                        "mark": 8
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": true,
+                        "mark": 3
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CS3452",
+                        "name": "Theory of Computation",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3452",
+                        "name": "Operating Systems",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AD3391",
+                        "name": "Database Design and Management",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3451",
+                        "name": "Machine Learning",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "AL3391",
+                        "name": "Artificial Intelligence",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "GE3451",
+                        "name": "Environmental Sciences and Sustainability",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "registerNo": 96132022005,
+        "assignmentResults": {
+            "one": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": true,
+                        "mark": 6
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 1
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            },
+            "two": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": true,
+                        "mark": 2
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": true,
+                        "mark": 7
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": true,
+                        "mark": 4
+                    }
+                ]
+            },
+            "three": {
+                "results": [
+                    {
+                        "code": "CCS356",
+                        "name": "Object Oriented Software Engineering",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CS3691",
+                        "name": "Embedded Systems and IoT",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS346",
+                        "name": "Exploratory Data Analysis",
+                        "status": false,
+                        "mark": 0
+                    },
+                    {
+                        "code": "CCS375",
+                        "name": "Web Technologies",
+                        "status": false,
+                        "mark": 0
+                    }
+                ]
+            }
+        }
+    }
+]
