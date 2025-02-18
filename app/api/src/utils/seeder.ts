@@ -51,24 +51,24 @@ const seedStudents = async () => {
 };
 // seedStudents();
 
-const seedAssignments = async () => {
-    try {
-        await deleteAssignmentData();
-        console.log('Assignment data deleted! Successfully!');
-        await addAssignmentData(assignments);
-        console.log('Assignment data added Successfully!');
-        process.exit(0);
-    } catch (err: unknown) {
-        if (err instanceof Error) {
-            console.error(`Error while running seeder ${err.message}`);
-        } else {
-            console.error('An unknown error occured while running seeder');
-        }
-        process.exit(1);
-    }
-};
+// const seedAssignments = async () => {
+//     try {
+//         await deleteAssignmentData();
+//         console.log('Assignment data deleted! Successfully!');
+//         await addAssignmentData(assignments);
+//         console.log('Assignment data added Successfully!');
+//         process.exit(0);
+//     } catch (err: unknown) {
+//         if (err instanceof Error) {
+//             console.error(`Error while running seeder ${err.message}`);
+//         } else {
+//             console.error('An unknown error occured while running seeder');
+//         }
+//         process.exit(1);
+//     }
+// };
 
-seedAssignments();
+// seedAssignments();
 
 // await Promise.all(
 //     studentsData.map(async (student: Student) => {

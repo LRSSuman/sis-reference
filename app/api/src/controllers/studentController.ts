@@ -1,9 +1,9 @@
-import { findRegulationInfo, getAllStudents } from '@models';
+import { createStudent, findRegulationInfo, getAllStudents } from '@models';
 import { Request, Response } from 'express';
 import { catchAsyncError } from 'middleware';
-import { RegulationInfo, Semesters, StudentDTO, StudentDTOType, Subject } from '@sis/types';
+import { RegulationInfo, Semesters, Student, StudentDTO, StudentDTOType, Subject } from '@sis/types';
 import { NextFunction } from 'express-serve-static-core';
-import { ErrorHandler } from '@utils';
+import { assignDefaultData, ErrorHandler } from '@utils';
 
 export const getStudents = catchAsyncError(async (req: Request, res: Response, next: NextFunction) => {
     const students = await getAllStudents();
@@ -23,14 +23,12 @@ export const newStudent = catchAsyncError(
             return next(new ErrorHandler('Validation Failed', 400));
         }
 
-        const { registerNo, regulation, semester } = student.data;
-        const regulationInfo = await findRegulationInfo(regulation, semester);
-        const { subjects } = regulationInfo.semesters[semester as keyof Semesters];
-
-        // const assignment = assignDefaultData(registerNo, subjects);
+        await assignDefaultData([student.data as Student]);
+        const newStudent = await createStudent(student.data);
 
         res.status(201).json({
             success: true,
+            newStudent,
         });
     }
 );

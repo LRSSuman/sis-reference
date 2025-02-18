@@ -13,6 +13,7 @@ const resultSchema = new mongoose.Schema(
 
 const assignmentSchema = new mongoose.Schema({
     registerNo: { type: Number, required: [true, 'please enter register no'] },
+    name: { type: String, required: [true, 'please enter name'] },
     assignmentResults: {
         one: {
             results: [resultSchema],

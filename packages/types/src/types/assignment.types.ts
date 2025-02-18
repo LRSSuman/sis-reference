@@ -7,6 +7,7 @@ export interface AssignmentResult {
 
 export interface Assignment {
     registerNo: number;
+    name: string;
     assignmentResults: {
         one: {
             results: AssignmentResult[];

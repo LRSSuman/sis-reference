@@ -87,5 +87,6 @@ const studentSchema = new mongoose.Schema({
 
 export const studentModel = mongoose.model('Student', studentSchema);
 export const getAllStudents = () => studentModel.find();
+export const createStudent = (data: any) => studentModel.create(data);
 export const addStudentData = (data: Student[]) => studentModel.insertMany(data);
 export const deleteStudentData = () => studentModel.deleteMany();
